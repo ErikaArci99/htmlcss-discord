@@ -157,8 +157,13 @@ h2 {
 
 .green-square{
     width: 100%;
-    height: 900px;
 }
+
+.img-size{
+    width: 1200px;
+}
+
+/* classi footer */
 
 .black-background{
     background-color: #23272A;
