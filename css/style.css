@@ -80,11 +80,15 @@ header ul li{
 }
 
 .margin-button{
-    margin:20px 0px 0px 15px;
+    margin:20px 0px 0px 20px;
 }
 
 .margin{
     margin: 50px 0px 50px 0px;
+}
+
+.margin-footer{
+    margin: 50px 0px 15px 0px;
 }
 
 .margin-bottom{
@@ -95,6 +99,11 @@ header ul li{
     margin-top: 10px;
     margin-bottom: 45px;
 }
+
+.margin-p-footer{
+    margin: 20px 80px 0px 0px;
+}
+
 /* classi 1 quadrato*/
 
 .first-style{
@@ -186,16 +195,26 @@ h3{
     background-color: #23272A;
 }
 
+.blue-text{
+    color: #7289DA;
+}
+
+.ita{
+    width: 25px;
+}
+
 .peach-square{
     width: 30%;
-    height: 580px;
-    background-color: #F0817F;
+}
+
+i{
+    color: white;
+    width: 30px;
+    margin: 20px 0px 400px 0px;
 }
 
 .tiffany-square{
     height: 580px;
-    background-color: #20B3AA;
-    border: 2px dashed white;
     flex-grow: 1;
 }
 
