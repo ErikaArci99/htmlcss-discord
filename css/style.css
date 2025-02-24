@@ -3,6 +3,10 @@
     border: 0;
     box-sizing: border-box;
 }
+  
+  body{
+    font-family: sans-serif;
+  }
 
 .container{
     display: flex;
@@ -13,22 +17,28 @@
 }
 
 .header-style{
-    background-color: #ADD8E7;
+    background-color: #255EE9;
 }
 
 .header-button-1{
-    background-color: #DFA51C;
-    width: 20%;
-    height: 46px;
+    background-color: #255EE9;
     padding: 10px 10px;
     margin: 20px 0px;
 }
 
+.style-button{
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.white-bc{
+    background-color: white;
+}
+
 .header-button-2{
-    background-color: #DFA51C;
-    width: 60%;
-    padding: 10px 260px;
-    height: 46px;
+    background-color: #255EE9;
+    padding: 10px 0px;
+    margin: 0px 135px;
 }
 
 header ul{
@@ -38,7 +48,8 @@ header ul{
 }
 
 header ul li{
-    margin: 0px 10px 0px 0px;
+    margin: 0px 40px 0px 0px;
+    color: white;
 }
 
 .border{
@@ -54,7 +65,7 @@ header ul li{
 }
 
 span{
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .first-style{
