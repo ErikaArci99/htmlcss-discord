@@ -223,9 +223,11 @@ i{
     width: 70%;
 }
 
-hr{
+.hr-style{
     background-color: #7289DA;
     height: 2px;
+    width: 1300px;
+    margin-left: 300px;
 }
 
 .aqua-square{
