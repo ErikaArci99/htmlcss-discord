@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header-style{
+    background-color: #ADD8E7;
+}
+
+.header-button-1{
+    background-color: #DFA51C;
+    width: 20%;
+    height: 46px;
+    padding: 10px 10px;
+    margin: 20px 0px;
+}
+
+.header-button-2{
+    background-color: #DFA51C;
+    width: 60%;
+    padding: 10px 260px;
+    height: 46px;
+}
+
+header ul{
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+}
+
+header ul li{
+    margin: 0px 10px 0px 0px;
+}
+
+.border{
+    border: 2px dashed black;
+}
+
+.text-align-sx{
+    text-align: left;
+}
+
+.text-align-dx{
+    text-align: right;
+}
+
+span{
+    font-size: 20px;
+}
+
+.first-style{
+    background-color: #00008B;
+}
+
+.fucsia-square{
+    width: 80%;
+    height: 400px;
+    background-color: #EE82ED;
+}
+
+.blue-square{
+    width: 60%;
+    height: 500px;
+    background-color: #1E90FF;
+    padding: 55px 0px;
+}
+
+.pink-square{
+    width: 40%;
+    height: 500px;
+    background-color: #FFBDC6;
+}
+
+.grey-background{
+    background-color: #D3D3D3;
+}
+
+.green-square{
+    width: 100%;
+    height: 900px;
+    background-color: #429036;
+}
+
+.margin{
+    margin: 55px 0px;
+}
+
+.black-background{
+    background-color: #23272A;
+}
+
+.peach-square{
+    width: 30%;
+    height: 580px;
+    background-color: #F0817F;
+}
+
+.tiffany-square{
+    height: 580px;
+    background-color: #20B3AA;
+    border: 2px dashed white;
+    flex-grow: 1;
+}
+
+.flex-grow{
+    display: flex;
+    width: 70%;
+}
+
+hr{
+    background-color: white;
+    height: 1px;
+}
+
+.second-margin{
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
+
+.aqua-square{
+    width: 100%;
+    background-color: #7FFFD4;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.second-button{
+    background-color: #FFB3C3;
+    margin: 25px 0px;
+    width: 7%;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
