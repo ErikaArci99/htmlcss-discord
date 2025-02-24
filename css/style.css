@@ -130,13 +130,11 @@ h2 {
 
 .blue-square{
     width: 60%;
-    height: 500px;
     padding: 55px 0px;
 }
 
 .pink-square{
     width: 40%;
-    height: 500px;
 }
 
 .p-style-2{
@@ -149,16 +147,17 @@ h2 {
     margin: 10px 0px 0px 0px;
 }
 
-/* classi terzo quadrato */
+/* classi terzo e quarto quadrato */
 
 .grey-background{
-    background-color: #D3D3D3;
+    background-color: #F6F6F6;
 }
+
+/* classi quinto quadrato */
 
 .green-square{
     width: 100%;
     height: 900px;
-    background-color: #429036;
 }
 
 .black-background{
